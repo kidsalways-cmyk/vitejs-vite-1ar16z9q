@@ -12,6 +12,8 @@
   "dependencies": {
     "react": "^19.2.7",
     "react-dom": "^19.2.7"
+    "firebase": "^10.0.0",
+    "lucide-react": "^0.300.0"
   },
   "devDependencies": {
     "@types/node": "^24.13.2",
